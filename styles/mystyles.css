@@ -1,0 +1,24 @@
+/*Jake Falagrady 06/13*/
+.sealing {
+   height: 750px;
+   float: right;
+}
+.resumeListHeader{
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+.resumeul{
+    font-weight: normal;
+    text-align: left;
+}
+.aboutimg{
+    height: 400px;
+    width: 300px;
+}
+.aboutmish{
+    z-index: 0;
+    position: relative;
+    left: 500px;
+}
+
